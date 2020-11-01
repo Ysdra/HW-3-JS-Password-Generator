@@ -2,7 +2,7 @@
 A random password generator that utilizes JavaScript. 
 
 ## Purpose & Requirements
-A random password generator that demonstrates through the power of JavaScript how we can generate random elements to create the desired result. Th thought process is to design a random password generator that generates a password with a length between 8-128 characters long that includes special characters as well.
+A random password generator that demonstrates through the power of JavaScript how we can generate random elements to create the desired result. The thought process is to design a random password generator that generates a password with a length between 8-128 characters long that includes special characters as well.
 
 
 ## Thought Process
