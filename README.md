@@ -1,4 +1,4 @@
-# HW-3---JS-Password-Generator
+# HW-3-JS-Password-Generator
 A random password generator that utilizes JavaScript. 
 
 ## Purpose & Requirements
